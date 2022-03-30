@@ -9,7 +9,9 @@ package spdvi.toolsmanagerproject;
  * @author David S2P2
  */
 public class JFrameMain extends javax.swing.JFrame {
-
+    
+    final public static String USERSPATH ="C:\\Users\\David S2P2\\Desktop\\RECUPERACIONES\\INTERFACES\\ToolsManagerProject\\files\\Usuaris.csv";
+    
     /**
      * Creates new form JFrameMain
      */
